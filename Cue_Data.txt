@@ -1,0 +1,108 @@
+Trk	Dur	Title	Film Sequence and Musical Themes
+1	6:26	Main Title and the Attack on the Jakku Village	0:00: Main title and crawl.
+			0:00: Fanfare
+			0:06: Luke theme
+			"0:26: Luke ""B"" theme (hint of Leia theme)"
+			0:48: Luke theme
+			"1:26: The First Order star destroyer Finalizer comes into view.  First Order troops head towards Jakku (suspense figures into martial string rhythm, rising brass figures and accents). "
+			"2:16: On the surface, BB-8 senses danger, as Lor San Tekka gives Poe a secret map (tremolo string accents, Map Motif in soft winds with harp/strings/celeste, ends with hint of Vader/Imperial theme in strings). "
+			"3:07: First Order troops attack the village.  Poe and BB-8 attempt to escape but his X-Wing is disabled.  Poe gives BB-8 the map and tells it to run away.  Finn comforts a fallen comrade, and then panics.  (rhythmic action strings/brass ending in suspended texture)"
+			"4:19: Kylo Ren arrives and confronts Lor San Tekka (Kylo Ren Fanfare with tremolo brass accents, poignant strings/brass accents)."
+			5:03: Kylo Ren has Captain Phasma order her men to kill all of the villagers.  Finn cannot bring himself to shoot and Kylo Ren notices (dark figures and harmonies ending with Kylo Ren Fanfare).
+			"5:48: After seeing Poe's X-Wing destroyed, BB-8 goes off into the desert (soft harp/strings). "
+			"6:02: Kylo Ren, Poe and Finn all return to the Finalizer (rising figures in brass/strings)."
+2	3:40	The Scavenger	0:00: A scavenger explores a crashed super star destroyer on Jakku (unused: features cor anglais figure/low strings).
+			0:37: Rey emerges from the wrecked hulk and takes a drink of water (flute figure based on Rey Main theme). 
+			"0:53: She slides down a sand dune and loads up her landspeeder (Rey Intro theme, Rey Small theme developed)."
+			"1:31: Rey journeys through the desert terrain back to Niima Outpost (Rey Main theme with Small theme ornaments, Intro theme, Small theme)."
+			"2:20: Rey leaves Unkar Plutt's trading counter.  At sunset, Rey prepares a powdered dinner inside her AT-AT shelter (somber brass/strings, harp, Rey Main theme on flute)."
+3	3:11	I Can Fly Anything	"0:00: On the Finalizer, Poe and Finn work together to steal a TIE fighter but run into trouble when the ship is still tethered to the bay (alt. version: suspense textures, ""Escape"" rhythmic motif gradually develops over string/brass accents, then snare and brass ""mission"" figures)."
+			"0:47: Poe eventually flies the TIE out of the bay (brass fanfares, Escape rhythmic motif on strings, Poe fragment on brass, rhythmic strings/brass figures). "
+			"1:19: Finn shoots out two turbo-laser turrets, and introductions are made (sweeping Poe theme, brief Escape motif). "
+			"1:48: Kylo Ren orders torpedoes to be engaged, which Finn and Poe proceed to narrowly dodge.  They argue about a flight plan and are hit by a last torpedo (suspense figures, rising brass accents, strings figures based on Escape motif, etc.)."
+			2:52: Phasma talks to Hux about Finn's odd behavior (low suspense figures).
+4	1:31	Rey Meets BB-8	"0:00: At the Resistance base, Artoo suddenly reactivates and provides the missing part of the map leading to Luke's hidden whereabouts (continues in track 22) (light hesitant figures over tremolo strings, celeste, hopeful strings joined by winds and brass). "
+			"1:10: An informant alerts the First Order to BB-8's presence at Maz Kanata's castle (Resistance theme fragment in high winds, suspense textures)."
+5	2:55	Follow Me	0:00: Finn tells Rey and BB-8 about what happened to Poe after they crashed on Jakku (somber figures). 
+			0:29: Finn pretends to be a Resistance fighter in order to impress Rey (winds lead to plucked strings and a lighter tone). 
+			"0:56: BB-8 sees Stormtroopers, and they are soon pursued through the outpost.  After they narrowly escape an aerial attack, Rey leads Finn towards the Millennium Falcon (action cue based on Finn's rhythmic theme with some pensive interludes, leading to Rebel Fanfare in brass at 2:29 when the Falcon comes into view)."
+6	3:11	Rey's Theme	"0:00: Rey Small theme on flute, winds."
+		(Concert Suite)	"0:13: Rey Intro theme on celeste, Small theme resumes in strings."
+			"0:33: Rey Main theme in brass, developed with Small theme ornaments."
+			1:00: Rey Intro theme on brass.
+			"1:10: Rey Intro theme modulated, Rey Main theme variation developed."
+			"1:40: Rey Main theme on strings, brass with Small theme ornaments."
+			"2:13: Rey Main theme modulated in strings/brass/bass pulse, ending in brass cadence."
+			2:39: Rey Intro theme in winds.
+			2:49: Rey Small theme in celeste.
+7	3:33	The Falcon	"0:00: Finn, Rey and BB-8 board the Falcon and take off (with some bumps) (kinetic string rhythms, brief Rebel Fanfare then rhythmic action music based Finn's theme and brass fanfares). "
+			"1:00: Rey executes a barrel roll into pursuing TIE fighters.  She and Finn manage to take out some of their pursuers in the Spaceship Graveyard. (Rebel Fanfare, Millennium Falcon rhythmic theme (""news theme"") on xylophone, various action figures/accents, Finn's theme, etc)."
+			"2:31: Rey flies the Falcon into the bowels of a super star destroyer wreck to lose the last TIE fighter.  Once outside, Finn destroys it and they head out into space. (low suspense into brass accents, action figures into a soaring victory figure)"
+8	1:59	That Girl with the Staff	"0:00: After escaping from Jakku, Rey and Finn finally introduce themselves to each other (held textures, Rey's Main theme)."
+			"0:35: At Niima Outpost, Finn sees Rey with BB-8.  Rey chases Finn after BB-8 accuses him of stealing Poe's jacket (questioning figures, rhythmic figures)."
+			"1:05: Kylo Ren is informed that BB-8 has escaped Hux's men on Jakku (with help from Finn) and has a tantrum (low textures with brass, building to dissonant clusters/brass accents)."
+9	4:06	The Rathtars!	"0:00: The Falcon loses power and is captured by a large freighter.  They decide to hide in a freight compartment and use poison gas as a defense.  Han Solo and Chewbacca appear. (low suspense strings/brass, rhythmic tremolo ""mission"" strings, strings lead to Luke theme in brass)."
+			"1:02: unused, probably Rathtar music (dissonant figures in strings/brass over string rhythm)"
+			"1:22: Han, Finn, Rey and the members of the Guavian Death Gang/Kanjiklub run from three loose Rathtars.  Finn is caught by one of them and dragged away.  Rey sees him on a monitor and saves him remotely (alt. edit/version). (timpani signals lumbering brass, suspense strings, syncopated brass accents, brass stings, string rhythms into piano clusters, etc. leading to unique ""rattling"" rising brass/string cluster, timpani interlude, string accents, etc., ending with Finn's theme)."
+			"2:52: Han works on opening the door to the launch bay as Chewie holds off the Guavian Death Gang.  Rey and Finn help Han take off in the Millennium Falcon. The Guavian Gang informs the First Order that BB-8 is with Han Solo (alt. version). (brass figures/accents, falling figures, Finn's theme, rhythmic figures, rising brass, Rebel fanfare, foreboding figures)."
+10	2:09	Finn's Confession	"0:00: Finn confesses to Rey that he's really a First Order renegade, and that she should come with him.  Rey asks him not to leave their new group, but Finn leaves anyways.  Rey then hears a young girls' voice. (sympathetic strings, winds, muted brass, Rey's Main theme fragment)."
+			"0:52: The Falcon approaches Takodana, where Maz Kanata's castle is located (sweeping strings, Rey's Main theme in high winds, cadence strings)."
+			"1:17: After Han invites Rey to join his crew, she reflects on her home on Jakku.  The heroes approach the entrance of Maz's castle. (Rey's Main theme developed, scalar wind/harp/string figures slightly based on part of Rey's Small theme)."
+11	3:08	Maz's Counsel	0:00: Maz talks about the spreading shadow of the First Order and that they must all fight.  Finn expresses skepticism. (suspense textures).
+			"0:29: Maz suddenly takes a closer look at Finn (tremolo strings joined by harp/celeste and cor anglais, low strings)."
+			"1:21: Maz tells Rey that there is nothing for her back on Jakku, that her destiny lies with Luke Skywalker (variation of Rey's Main theme in low brass, noble textures, low arpeggios, Force theme, tension accents). "
+			"2:40: A confused Rey runs away from Maz's castle into the forest.  On Starkiller Base, Hux addresses his troops. (Rey's Main theme fragment in a poignant harmony, foreboding end cadence)."
+12	1:52	The Starkiller	"0:00: Starkiller Base is activated and destroys several central planets of the Republic.  Finn and Han see the explosions in the sky. (sad, poignant string figures, varying in intensity)."
+13	2:02	Kylo Ren Arrives at the Battle	"0:00: BB-8 follows Rey into the forest, as Kylo Ren's forces approach Maz's castle (suspense texture, foreboding rhythmic texture). "
+			"0:33: Maz shows Han Luke's old lightsaber and gives it to Finn.  Rey runs through the forest, as the First Order blasts Maz's castle.  Kylo Ren's shuttle arrives.  Rey shoots at stormtroopers.  As Kylo Ren looks for Rey, Rey tells BB-8 to keep going without her.  (building tension, rhythmic strings, Kylo Ren Fanfare, irregular figures leading back to string rhythm, Kylo Ren Fanfare, string rhythm, Rey's Main theme fragment, low strings)."
+14	2:25	The Abduction	"0:00: Kylo Ren captures Rey in the forest using a Force hold.  He scans her mind, and orders his troops to withdraw (eerie string textures, Kylo Ren Motif on brass, string tremoli, low suspense textures, Kylo Ren Fanfare, suspense figures with a hint of Rey's Main theme fragment in brass). "
+			"1:25: Han and Finn see Kylo Ren with an unconscious Rey.  Finn gives chase but is too late (poignant strings, brass, Rey's Main theme in a dark harmony)."
+15	4:42	Han and Leia	"0:00: On Takodana, Leia emerges from a Resistance ship and reunites with Han and Chewie.  They discuss Kylo Ren. (soft wind figure, Leia theme in flutes, Han and Leia Love theme in celli, then oboe, ending in a bittersweet figure)."
+			"1:12: The Resistance fighters and the Falcon return to the Resistance base on D'Qar.  BB-8 and Finn reunite with Poe.  Leia and Finn discuss Starkiller Base. (Resistance theme, gentle strings/winds joined by hopeful brass, troubled low brass)"
+			"2:43: BB-8 uncovers an unresponsive R2-D2.  Threepio explains his hibernating state (questioning Map Motif variation in winds/bass, bass clarinet dialogue with strings into Map Motif in winds). "
+			"3:13: Leia urges Han to try to reach their son (Kylo Ren) and bring him home (melancholy strings, Han and Leia Love theme, Kylo Ren Motif, Force theme, troubled ending cadence)."
+16	2:36	March of the Resistance	"0:00: Brass/strings accents, Resistance theme in wind/string canon layers."
+		(Concert Suite)	"0:15: Resistance theme in brass, supported by low strings/winds, developed."
+			0:34: Brass accents transition.
+			"0:52: Resistance theme developed in brass, syncopated layers."
+			"1:11: Resistance theme in canon string layers, developed."
+			1:45: Brass accents transition variation.
+			"2:00: Resistance theme in brass (modulated), developed, ending in fanfare."
+17	2:03	Snoke	0:00: Snoke and General Hux discuss the Resistance.  Kylo Ren joins them (male choir drones with slow melody).
+			0:33: Faster melodic material begins.
+			1:01: Snoke asks Kylo Ren to bring Rey to him (low strings/brass).
+			1:20: Slow choir returns with tremolo string accents.
+18	2:06	On the Inside	0:00: Han and Chewie plant explosive charges on Starkiller Base (suspense figures/arpeggios). 
+			"0:45: Kylo Ren arrives with a stormtrooper squad.  Rey notices that their time is almost up (Kylo Ren Fanfare with timpani rhythm, brass accents, suspense, Kylo Ren Fanfare, arpeggios, etc). "
+			1:32: Han sees Kylo Ren and follows him onto a catwalk (subdued textures).
+19	4:19	Torn Apart	"0:00: Kylo Ren tells Han that he's being torn apart by the struggle inside him.  The scene darkens as Starkiller Base finishes sucking out the energy of the nearby sun (soft string harmony with violins and celli moving in split directions, poignant wind/string figures)."
+			"1:26: Kylo Ren impales Han on his lightsaber.  Han caresses his son's face and falls off the catwalk to his death.  Leia senses it. (urgent string accents, building with timpani pulses/brass, soft string harmony in subtle layers)"
+			"2:26: Chewie goes berserk, wounds Kylo Ren and sets off the explosive charges (rhythmic string and brass accents). "
+			"2:47: Kylo Ren sees Rey and Finn and pursues them outside into the snow (Kylo Ren Fanfare, rhythmic string and brass accents, Force theme, quiet textures with string tremoli, Kylo Ren Fanfare)."
+			"3:52: After Kylo Ren knocks out Rey, Finn runs to her and then uses Luke's lightsaber to face Kylo Ren alone (Rey Main theme fragment, suspense textures)."
+20	3:15	The Ways of the Force	"0:00: Kylo Ren calls to Luke's lightsaber but it flies to Rey's hand instead.  They begin dueling (low wind trills, string tremoli, Force theme in brass, Rey Main theme fragment;  in the film this cue was retracked with the Force theme in ""Burning Homestead"" from ""A New Hope"")."
+			"0:46: Rey and Kylo Ren continue dueling.  Kylo Ren gets the upper hand with his superior skills (brass action rhythm, Rey Main theme, Kylo Ren Motif, Kylo Ren Fanfare, developed)."
+			"1:51: Rey concentrates on the Force and then rallies, eventually defeating Kylo Ren.  The two are separated by a chasm forming in the earth. (Force theme, rising action figures with Rey elements, Force theme, Rey Main theme elements, low string tremoli)."
+21	2:32	Scherzo for X-Wings	0:00: X-Wing Gallop (rhythmic brass/strings) with brass accents.
+		(Concert Suite)	"0:14: Luke theme, developed in brass layers, interrupted by falling string figures and accents."
+			"0:40: Jerky low string interlude, X-Wing Gallop with tambourine."
+			"0:50: Luke theme, developed in brass layers, X-Wing Gallop on strings."
+			"1:03: Luke theme, X-Wing Gallop with tambourine, Luke theme variation."
+			"1:27: X-Wing Gallop in strings with syncopated brass accents, Luke developed, X-Wing Gallop in brass, winding figures, accents, rising brass and rhythmic figures, X-Wing Gallop developed, Luke theme, Force theme fragment, rising figures."
+			2:23: Final brass/percussion cadence.
+22	4:56	Farewell and the Trip	"0:00: Chewie arrives with the Falcon and picks up Rey and the injured Finn.  The Falcon and Poe's X-Wing squadron depart as Starkiller Base explodes. (quivering textures, Rey Main theme variation, Poe theme, Force theme, Force theme blended with Rey Main theme)."
+			"1:11: At the Resistance base, celebrations erupt but Leia and Rey somberly embrace.  Chewie is sad. (hopeful brass, Rey Main theme fragment, sad strings into Han-Leia Love theme)"
+			2:05: unused interlude (oscillating Map Motif chords)
+			"2:12: BB-8 and Artoo finish combining their holo-maps to determine Luke's location.  Rey says farewell to an unconscious Finn.  Leia sends off Rey. (Force theme developed, Rey Main theme fragments, Leia theme)"
+			"3:31: Rey, Chewie and Artoo leave in the Falcon to go find Luke.  They arrive at Ahch-To and land by a rocky promontory (hopeful figures, Luke theme fragment, Rey Small theme, Rey Main theme with Small theme ornaments)."
+23	8:52	The Jedi Steps and Finale	"0:00: Rey climbs up rocky terrain and then stone stairs (celeste rhythm with climbing strings/winds, Jedi Temple theme (based on Force and Rey theme)). "
+			"0:58: She finds Luke and offers his lightsaber back to him (muted fanfare chords, Jedi Temple theme, Force theme with expectant cadence)."
+			2:12: End credits (home video version slightly different).
+			"2:12: Luke theme, Rebel fanfare"
+			"2:58: Rey Intro theme/Small theme/Main theme, modulated Rey Main theme, Rey Small theme on brass"
+			"4:15: Foreboding low figures into Kylo Ren Motif, Kylo Ren Fanfare"
+			"4:57: Finn's theme, Poe's theme"
+			"5:34: Millennium Falcon ""news theme"" chase music, Finn's theme"
+			6:05: Resistance March
+			"7:27: Force theme joined by Rey Main theme, Rebel fanfare with rising cadence"
+			"8:22: Brass cadence based on Rey Main theme, Luke theme on celeste/glockenspiel."
