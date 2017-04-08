@@ -28,17 +28,25 @@ makePlotRegion = function(xlim, ylim, bgcolor, ylabels,
   
 }
 
-minToPlot = function(time){ # x in format of aa:bb --> aa.bb --> aabb.0 for graphing
+plotToMin = function(time){
+  time = as.numeric(time)/100
+  #print(time)
   
-  dec = sapply(strsplit(time,":"),
-         function(x) {
-           x <- as.numeric(x)
-           x[1]+x[2]/60
-         }
-  )
+  dec_sec = time%%1
+  seconds = dec_sec*60
+  seconds = round(seconds, digits = 2)
+  minutes = time - dec_sec
+  
+  string_time = paste(toString(minutes), toString(seconds), sep = ":")
+  return(string_time)
+}
+
+minToPlot2 = function(time){ # x in format of aa:bb --> aa.bb --> aabb.0 for graphing
+  
+  time = time/(60*60)
   #print(time)
   #print(dec)
-  return(dec*100)
+  return(time)
 }
 
 sortPrimCol = function(Theme){
@@ -58,7 +66,7 @@ sortPrimCol = function(Theme){
 
 sortSecCol = function(Theme){
   #secondary colors (backgroud for sections)
-
+  
   for (char in character_color$Characters){
     if (!is.integer0(grep(tolower(char), tolower(Theme)))){
       #print(char)
@@ -80,10 +88,14 @@ sortInstr = function(instrument){
 }
 
 addSectionLine = function(start_time, end_time, y_pos, color){
-  rect(start_time, y_pos-5, end_time, y_pos+5, col = color, border = color)
+  rect(start_time, y_pos-2, end_time, y_pos+2, col = color, border = color)
 }
 
 addInstrumentLine = function(start_time, end_time, y_pos, color){
+  print(start_time)
+  print(end_time)
+  print(y_pos)
+  print(color)
   x_vec = c(start_time:end_time)
   y_vec = rep(y_pos, length(x_vec))
   
@@ -134,35 +146,35 @@ plotCue = function(characters, instruments, start, end){
   }
 }
 
-plotSong = function(data, song){
+plotSong = function(song_info){
   # The purpose of this function is to create the whole plot
   # Include here all of the set up that you need for
   # calling each of the above functions.
   # temp is the data frame sfoWeather or laxWeather
   # precip is the data frame sfoMonthlyPrecip or laxMonthlyPrecip
   
-  duration = data$durString[data$Title == song][1]
-  startTimes = data$start[data$Title == song]
-  endTimes = data$end[data$Title == song]
-  characters = data$char[data$Title == song]
-  instruments = data$instr[data$Title == song]
-  
-  startTimes_String = startTimes
+  #duration = data$durString[data$Title == song][1]
+  startTimes = song_info$start
+  endTimes = song_info$end
+  characters = song_info$characters
+  instruments = song_info$instruments
   
   length = length(characters)
+  
+  duration = endTimes[length]
   rows = c(1:length)
   
   #print(startTimes)
   
   for (row in rows){
-    startTimes[row] = minToPlot(startTimes[row])
-    endTimes[row] = minToPlot(endTimes[row])
+    startTimes[row] = minToPlot2(startTimes[row])
+    endTimes[row] = minToPlot2(endTimes[row])
   }
   
   startTimes = as.numeric(startTimes)
   endTimes = as.numeric(endTimes)
   
-  duration = minToPlot(duration)
+  duration = minToPlot2(duration)
   
   par(mfrow = c(1,1))
   bg_col = "navajowhite"
@@ -173,14 +185,29 @@ plotSong = function(data, song){
   # 
   makePlotRegion(xlim = c(0, x_max), ylim = c(0, 80), bgcolor = bg_col, margins = c(2,4,4,2))
   
+  #print(startTimes)
+  #print(endTimes)
+  #print(characters)
+  #print(instruments)
   
   for (row in rows){
-    plotCue(characters[row], instruments[row], startTimes[row], endTimes[row])
+    print(row)
+    color = sortPrimCol(characters[row])
+    pos = sortInstr(instruments[row])
+    #plotCue(characters[row], instruments[row], startTimes[row], endTimes[row])
+    addSectionLine(startTimes[row], endTimes[row], pos, color)
   }
   
-  title(main = song)
+  startTime_string = c()
+  for (time in startTimes){
+    #time = as.numeric(time)
+    #print(typeof(time))
+    startTime_string = c(startTime_string, plotToMin(time*100))
+  }
+  
+  title(main = unique(song_info$title))
   legend(20, 80, character_color$Characters, col = character_color$Primary, cex = 0.55, y.intersp = 0.5, lty = 10, lwd = 3)
-  axis(1, at = startTimes, labels = startTimes_String)
+  axis(1, at = startTimes, labels = startTime_string)
   axis(2, at = as.numeric(instrument_position$Position), labels = instrument_position$Instrument)
 }
 
@@ -195,4 +222,4 @@ plotAlbum = function(data){
 
 #plotSong(Han_and_Leia)
 #plotAlbum(tfa_info)
-plotSong(tfa_info, "Torn Apart")
+plotSong(torn_apart_info)
